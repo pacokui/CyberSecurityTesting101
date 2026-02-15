@@ -206,3 +206,6 @@ By uploading the malicious ZIP file via the **Complaints** page, the existing su
 * **Hacked User:** `admin@juice-sh.op`
 * **Captured Password Hash:** `0192023a7bbd73250516f069df18b500`
 
+* https://raw.githubusercontent.com/pacokui/CyberSecurityTesting101/main/5.DataInputSecurity/SCR-20260215-tcbh.png
+
+
