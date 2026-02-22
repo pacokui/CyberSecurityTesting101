@@ -6,7 +6,7 @@
 
 Insert your screenshot below:
 
-![AFL++ Execution](./path-to-your-image.png)
+![AFL++ Execution](6.Fuzzing/SCR-20260222-nary.png)
 
 ------------------------------------------------------------------------
 
