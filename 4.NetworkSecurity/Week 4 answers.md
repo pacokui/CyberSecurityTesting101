@@ -1,4 +1,3 @@
-This is the final, comprehensive documentation for your **Network Security Assignment**. It covers the analysis of the Voting App (Tasks 1 & 2) and the Man-in-the-Middle attack (Task 3).
 
 ---
 
@@ -103,6 +102,11 @@ When Alice executed `curl http://<Bob_IP>`, the following occurred:
 3. The proxy modified the content and sent it back to Alice.
 4. **Alice's Terminal Output:** `This is not Bob!`
 
----
+---<img width="1012" height="613" alt="SCR-20260208-oeba" src="https://github.com/user-attachments/assets/33dff92d-a5cf-4972-b25d-9fbae8a3fae8" />
+<img width="787" height="428" alt="SCR-20260208-oiuq" src="https://github.com/user-attachments/assets/54b14646-0957-4207-abc3-6e8095fc8957" />
+<img width="736" height="184" alt="SCR-20260208-ojie" src="https://github.com/user-attachments/assets/380ddac5-8037-465b-8919-a33a32153fc8" />
+<img width="1003" height="580" alt="SCR-20260208-oktg" src="https://github.com/user-attachments/assets/d332a2bc-ff7d-4fa1-97e3-7b946d8582e4" />
+<img width="1000" height="527" alt="SCR-20260208-omea" src="https://github.com/user-attachments/assets/29c68c88-1474-4b91-bd0f-d21d84851513" />
+<img width="1387" height="907" alt="SCR-20260215-tcbh" src="https://github.com/user-attachments/assets/e51cb724-d178-4f42-b621-89b24142064c" />
+<img width="796" height="566" alt="SCR-20260222-nary" src="https://github.com/user-attachments/assets/7304b03a-bca7-4eec-bdc5-133c5e4abe75" />
 
-**Next Step:** Would you like me to help you export the Python scripts or the Wireshark `.pcap` file for your final upload?
